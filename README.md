@@ -100,52 +100,36 @@ that understanding into something I can **simulate, implement, prototype, and te
 </p>
 
 ---
+## ⭐ featured repositories
 
-## projects
+<div align="center">
 
-### 🧠 FPGA-based Oscillatory Neural Network
+<a href=https://github.com/Vishal5434/Digital-ONN-on-FPGA>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vishal5434&repo=REPO-1&theme=github_dark&hide_border=true" />
+</a>
 
-Designed a fully digital **Oscillatory Neural Network in Verilog** on a
-Zybo Z7 FPGA for phase-based associative image recognition.
+<a href="https://github.com/Vishal5434/Oscillator-based-Neuromorphic-computing">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vishal5434&repo=REPO-2&theme=github_dark&hide_border=true" />
+</a>
 
-→ Modular neuron, synapse and control architecture  
-→ Parallel synaptic computation  
-→ 15 & 60 neuron architectures  
-→ FPGA inference pipeline  
-→ UART-based image transfer
+<br>
 
-### ⚡ Oscillatory Ising Machines
+<a href="https://github.com/Vishal5434/BabySoC-Fundamentals-Functional-Modelling-">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vishal5434&repo=REPO-3&theme=github_dark&hide_border=true" />
+</a>
 
-Working on **VO₂-based and Schmitt-trigger oscillator networks** for
-hardware-based combinatorial optimization.
+<a href="https://github.com/Vishal5434/REPO-4">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vishal5434&repo=REPO-4&theme=github_dark&hide_border=true" />
+</a>
 
-→ Verilog-A device modeling  
-→ Cadence circuit simulation  
-→ Oscillator synchronization & phase dynamics  
-→ Breadboard prototyping  
-→ Custom KiCad PCB design
+<br><br>
 
-### 💾 SRAM Ising Machine
+<a href="https://github.com/Vishal5434?tab=repositories">
+<img src="https://img.shields.io/badge/🔎%20Explore%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-Implemented an SRAM-based Ising architecture using **cross-coupled CMOS
-latches and resistive coupling** for combinatorial optimization problems.
+</div>
 
-### 🖥️ RISC-V SoC / VSDBabySoC
-
-Performed RTL modeling and verification of a SoC integrating a
-**RISC-V core, PLL and 10-bit DAC**, using Icarus Verilog, Yosys and GTKWave.
-
----
-
-## currently
-
-🔬 Exploring **VO₂ threshold-switching devices and coupled oscillators**
-
-🧠 Working on **neuromorphic & oscillator-based computing**
-
-⚡ Building **FPGA-based digital hardware**
-
-🔌 Exploring **analog/mixed-signal circuits and semiconductor devices**
 
 ---
 
