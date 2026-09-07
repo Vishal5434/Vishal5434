@@ -105,21 +105,21 @@ that understanding into something I can **simulate, implement, prototype, and te
 <div align="center">
 
 <a href=https://github.com/Vishal5434/Digital-ONN-on-FPGA>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vishal5434&repo=REPO-1&theme=github_dark&hide_border=true" />
+<img src="https://img.shields.io/badge/Repository%201-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://github.com/Vishal5434/Oscillator-based-Neuromorphic-computing">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vishal5434&repo=REPO-2&theme=github_dark&hide_border=true" />
+<img src="https://img.shields.io/badge/Repository%201-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br>
 
 <a href="https://github.com/Vishal5434/BabySoC-Fundamentals-Functional-Modelling-">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vishal5434&repo=REPO-3&theme=github_dark&hide_border=true" />
+<img src="https://img.shields.io/badge/Repository%201-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://github.com/Vishal5434/REPO-4">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vishal5434&repo=REPO-4&theme=github_dark&hide_border=true" />
+<img src="https://img.shields.io/badge/Repository%201-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br><br>
