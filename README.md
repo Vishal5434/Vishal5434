@@ -14,7 +14,7 @@ Hardware • VLSI • FPGA • Analog/Mixed-Signal • Neuromorphic Computing
 
 ---
 
-## about
+## About
 
 I'm an Electrical Engineering undergraduate at **IIT Gandhinagar** interested
 in building hardware across the stack — from **semiconductor devices and
@@ -29,7 +29,7 @@ that understanding into something I can **simulate, implement, prototype, and te
 
 ---
 
-## focus areas
+## Focus areas
 
 | | |
 |---|---|
@@ -41,7 +41,7 @@ that understanding into something I can **simulate, implement, prototype, and te
 
 ---
 
-## technologies & tools
+## Technologies & tools
 
 ### 💻 Languages
 
@@ -69,7 +69,7 @@ that understanding into something I can **simulate, implement, prototype, and te
 <img src="https://img.shields.io/badge/Autodesk_Inventor-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" />
 </p>
 
-### 🐍 Python / Data / ML
+### Libraries
 
 <p align="center">
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
