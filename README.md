@@ -48,8 +48,8 @@ that understanding into something I can **simulate, implement, prototype, and te
 <p align="center">
 <img src="https://img.shields.io/badge/Verilog-005DAB?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Verilog--A-2E8B57?style=for-the-badge" />
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
@@ -69,7 +69,7 @@ that understanding into something I can **simulate, implement, prototype, and te
 <img src="https://img.shields.io/badge/Autodesk_Inventor-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" />
 </p>
 
-### Libraries
+### 🧩 Libraries
 
 <p align="center">
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -99,67 +99,30 @@ that understanding into something I can **simulate, implement, prototype, and te
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
----
-## ⭐ featured repositories
 
-<div align="center">
-
-<a href=https://github.com/Vishal5434/Digital-ONN-on-FPGA>
-<img src="https://img.shields.io/badge/Repository%201-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://github.com/Vishal5434/Oscillator-based-Neuromorphic-computing">
-<img src="https://img.shields.io/badge/Repository%201-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br>
-
-<a href="https://github.com/Vishal5434/BabySoC-Fundamentals-Functional-Modelling-">
-<img src="https://img.shields.io/badge/Repository%201-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://github.com/Vishal5434/REPO-4">
-<img src="https://img.shields.io/badge/Repository%201-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br><br>
-
-<a href="https://github.com/Vishal5434?tab=repositories">
-<img src="https://img.shields.io/badge/🔎%20Explore%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
 
 
 ---
 
-## github activity
+## Connect
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vishal5434&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal5434&layout=compact&theme=github_dark&hide_border=true" width="49%" />
-
-</div>
-
----
-
-## connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/vishal-reddy-95aa14327/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:vishal.reddy@iitgn.ac.in">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://cdn.simpleicons.org/gmail" width="40" height="40"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/Vishal5434">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://cdn.simpleicons.org/github/white" width="40" height="40"/>
 </a>
+
+</div>
 
 </div>
 
