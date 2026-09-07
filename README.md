@@ -113,7 +113,7 @@ that understanding into something I can **simulate, implement, prototype, and te
 </a>
 &nbsp;&nbsp;&nbsp;
 
-<a href="mailto:vishal.reddy@iitgn.ac.in">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=vishal.reddy@iitgn.ac.in">
   <img src="https://cdn.simpleicons.org/gmail" width="40" height="40"/>
 </a>
 &nbsp;&nbsp;&nbsp;
