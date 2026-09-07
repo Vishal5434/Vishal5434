@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey, I'm Vishal 👋
 
-<!--
-**Vishal5434/Vishal5434** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm an Electrical Engineering student with a curiosity for understanding how things work under the hood.
 
-Here are some ideas to get you started:
+⚡ I'm especially interested in **Semiconductors, VLSI, Embedded Systems, and Electronics**. I enjoy turning ideas into actual circuits, PCBs, and working code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Currently exploring:
+- 🧠 Digital & Analog VLSI
+- 💻 Embedded Systems & IoT
+- 🔌 PCB & Hardware Design
+- 🏗️ Computer Architecture
+- ⚙️ Semiconductor Technology
+
+🛠️ **Tools & Technologies:**  
+`C/C++` • `Python` • `Verilog/SystemVerilog` • `KiCad` • `LTspice` • `Git`
+
+🚀 This GitHub is where I keep my **projects, experiments, things I'm learning, and stuff I'm building along the way.**
+
+💡 **Build → Break → Understand → Build Better.**
