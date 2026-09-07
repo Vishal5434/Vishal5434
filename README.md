@@ -1,47 +1,188 @@
 <div align="center">
 
-<!-- Upload banner.svg to a repo (e.g. as /assets/banner.svg) and swap the src below to your raw.githubusercontent.com link -->
-<img src="./assets/banner.svg" width="100%" alt="banner"/>
+<img src="./assets/banner.svg" width="100%" alt="Vishal Reddy"/>
+
+<br>
+
+<h3>Electrical Engineering @ IIT Gandhinagar</h3>
+
+<p>
+Hardware • VLSI • FPGA • Analog/Mixed-Signal • Neuromorphic Computing
+</p>
 
 </div>
 
-### about
+---
 
-Hardware-focused engineer working across digital logic, analog/mixed-signal circuits, and neuromorphic device modeling. Currently exploring VO2 threshold switches and coupled-oscillator systems for analog computing, alongside FPGA-based digital design.
+## about
 
-### focus areas
+I'm an Electrical Engineering undergraduate at **IIT Gandhinagar** interested
+in building hardware across the stack — from **semiconductor devices and
+analog circuits to RTL, FPGA architectures, and hardware accelerators**.
 
-- **FPGA / Digital Design** — RTL design, sequential logic, timing analysis
-- **Neuromorphic Computing** — oscillator-based computing, VO2 threshold switch modeling, analog graph coloring
-- **Analog / Mixed-Signal** — MOSFET characterization (I-V curves, threshold voltage extraction), RC circuit analysis
-- **Device Modeling** — compact Verilog-A models for novel devices
+My current work revolves around **FPGA-based digital systems, oscillator-based
+computing, neuromorphic hardware, semiconductor devices, and circuit-level
+modeling**.
 
-### tools
+I enjoy understanding how a system works at the lowest level and then turning
+that understanding into something I can **simulate, implement, prototype, and test**.
 
-![Verilog](https://img.shields.io/badge/Verilog-005DAB?style=flat-square&logo=verilog&logoColor=white)
-![VHDL](https://img.shields.io/badge/VHDL-1E1E1E?style=flat-square)
-![Verilog--A](https://img.shields.io/badge/Verilog--A-2b7a4b?style=flat-square)
-![FPGA](https://img.shields.io/badge/FPGA-orange?style=flat-square)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Cadence](https://img.shields.io/badge/Cadence-purple?style=flat-square)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+---
 
-### currently
+## focus areas
 
-🔬 Modeling VO2 coupled-oscillator systems for analog graph coloring
-🧠 Reading up on oscillator-based neuromorphic architectures
-⚙️ Working through FPGA RTL design and MOSFET-level circuit characterization
+| | |
+|---|---|
+| ⚡ **Digital Hardware** | RTL Design • Verilog • FPGA • RISC-V • Digital Systems |
+| 🧠 **Neuromorphic Computing** | Oscillatory Neural Networks • Ising Machines • Coupled Oscillators |
+| 🔬 **Analog / Mixed-Signal** | MOSFETs • Device Characterization • Circuit Design • ADC/DAC |
+| 🧩 **Device Modeling** | Verilog-A • VO₂ Devices • Compact Behavioral Models |
+| 🔧 **Hardware Prototyping** | PCB Design • KiCad • Arduino • ESP32 • Hardware Debugging |
 
-<!-- Live GitHub stats — replace YOUR_USERNAME -->
+---
+
+## technologies & tools
+
+### 💻 Languages
+
+<p align="center">
+<img src="https://img.shields.io/badge/Verilog-005DAB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Verilog--A-2E8B57?style=for-the-badge" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+### ⚙️ EDA / Engineering
+
+<p align="center">
+<img src="https://img.shields.io/badge/Cadence_Virtuoso-CC0000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Xilinx_Vivado-E01F26?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Vivado_HLS-E01F26?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LTspice-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+<img src="https://img.shields.io/badge/Simulink-FF8C00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Autodesk_Inventor-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" />
+</p>
+
+### 🐍 Python / Data / ML
+
+<p align="center">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Panel-1F77B4?style=for-the-badge" />
+</p>
+
+### 🔌 Hardware / Interfaces
+
+<p align="center">
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MIPI--DSI-222222?style=for-the-badge" />
+<img src="https://img.shields.io/badge/UART-555555?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ADC-555555?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DAC-555555?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Zybo_Z7-0066CC?style=for-the-badge" />
+</p>
+
+### 🛠️ Development
+
+<p align="center">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+## projects
+
+### 🧠 FPGA-based Oscillatory Neural Network
+
+Designed a fully digital **Oscillatory Neural Network in Verilog** on a
+Zybo Z7 FPGA for phase-based associative image recognition.
+
+→ Modular neuron, synapse and control architecture  
+→ Parallel synaptic computation  
+→ 15 & 60 neuron architectures  
+→ FPGA inference pipeline  
+→ UART-based image transfer
+
+### ⚡ Oscillatory Ising Machines
+
+Working on **VO₂-based and Schmitt-trigger oscillator networks** for
+hardware-based combinatorial optimization.
+
+→ Verilog-A device modeling  
+→ Cadence circuit simulation  
+→ Oscillator synchronization & phase dynamics  
+→ Breadboard prototyping  
+→ Custom KiCad PCB design
+
+### 💾 SRAM Ising Machine
+
+Implemented an SRAM-based Ising architecture using **cross-coupled CMOS
+latches and resistive coupling** for combinatorial optimization problems.
+
+### 🖥️ RISC-V SoC / VSDBabySoC
+
+Performed RTL modeling and verification of a SoC integrating a
+**RISC-V core, PLL and 10-bit DAC**, using Icarus Verilog, Yosys and GTKWave.
+
+---
+
+## currently
+
+🔬 Exploring **VO₂ threshold-switching devices and coupled oscillators**
+
+🧠 Working on **neuromorphic & oscillator-based computing**
+
+⚡ Building **FPGA-based digital hardware**
+
+🔌 Exploring **analog/mixed-signal circuits and semiconductor devices**
+
+---
+
+## github activity
+
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Vishal5434&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal5434&layout=compact&theme=github_dark&hide_border=true" width="49%" />
 
 </div>
 
-### connect
+---
 
-<!-- add your LinkedIn / email / portfolio links here -->
+## connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:vishal.reddy@iitgn.ac.in">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Vishal5434">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+**Build → Simulate → Prototype → Debug → Understand ⚡**
+
 </div>
